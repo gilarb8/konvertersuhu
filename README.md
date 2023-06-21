@@ -32,3 +32,7 @@ Teknologi yang Digunakan:
 - JavaScript
 
 Silakan gunakan template code ini sesuai kebutuhan anda!
+
+## Lisensi
+
+Proyek ini dilisensikan di bawah [Mozilla Public License 2.0]
