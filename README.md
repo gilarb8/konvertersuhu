@@ -1,4 +1,4 @@
-# konverterSuhu
+# konverter Suhu
 
 This is the source code for creating a web application that allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin. The application provides a user-friendly interface for entering temperature values and selecting the desired unit for conversion. The converted temperatures are displayed instantly, providing real-time conversion results.
 
